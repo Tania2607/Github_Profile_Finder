@@ -42,6 +42,13 @@ cd github-profile-finder
 3. Search Away!
 Enter any GitHub username to fetch profile details.
 
+📸 Demo
+
+![GPF](https://github.com/user-attachments/assets/437d38fc-eb56-47af-bb5e-47b4f3baae2a)
+
+![image](https://github.com/user-attachments/assets/4d60a423-8f4b-40d5-a9f7-e185dc00be3f)
+
+
 📌 Notes
 No authentication needed (uses GitHub public endpoints).
 
