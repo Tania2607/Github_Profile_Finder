@@ -21,6 +21,7 @@ A sleek and simple web application that allows users to search for any GitHub us
  📂 Project Structure
 
 github-profile-finder/
+
 ├── GPF.html
 ├── style.css
 ├── script.js
@@ -44,9 +45,9 @@ Enter any GitHub username to fetch profile details.
 
 📸 Demo
 
-![GPF](https://github.com/user-attachments/assets/437d38fc-eb56-47af-bb5e-47b4f3baae2a)
+![Screenshot](https://github.com/user-attachments/assets/437d38fc-eb56-47af-bb5e-47b4f3baae2a.png)
 
-![image](https://github.com/user-attachments/assets/4d60a423-8f4b-40d5-a9f7-e185dc00be3f)
+![image](https://github.com/user-attachments/assets/4d60a423-8f4b-40d5-a9f7-e185dc00be3f.png)
 
 
 📌 Notes
