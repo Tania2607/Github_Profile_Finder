@@ -45,15 +45,11 @@ Enter any GitHub username to fetch profile details.
 
 📸 Demo
 
-![Screenshot](https://github.com/user-attachments/assets/437d38fc-eb56-47af-bb5e-47b4f3baae2a.png)
+![Image](https://github.com/user-attachments/assets/3b460275-f66b-46b1-bdae-ae903c4b5afd)
 
-![image](https://github.com/user-attachments/assets/4d60a423-8f4b-40d5-a9f7-e185dc00be3f.png)
-
+![Image](https://github.com/user-attachments/assets/6f87a886-0067-4f3b-bd0d-e9b898ed5db8)
 
 📌 Notes
-No authentication needed (uses GitHub public endpoints).
-
-Rate-limited by GitHub (60 requests/hour for unauthenticated requests).
 
 Make sure to have a stable internet connection to fetch data from GitHub API.
 
