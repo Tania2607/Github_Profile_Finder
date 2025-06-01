@@ -6,7 +6,6 @@ A sleek and simple web application that allows users to search for any GitHub us
 
 - 🔎 Search any valid GitHub username
 - 👤 View user profile info: avatar, bio, location, followers, following
-- 📦 See public repositories with links
 - 🌐 Responsive and clean UI with vibrant colors
 - ⚡ Fast and lightweight — uses GitHub's public REST API
 
@@ -20,11 +19,14 @@ A sleek and simple web application that allows users to search for any GitHub us
 
  📂 Project Structure
 
-github-profile-finder/
+github-profile-finder
 
 ├── GPF.html
+
 ├── style.css
+
 ├── script.js
+
 └── README.md
 
 bash
@@ -36,7 +38,6 @@ git clone https://github.com/yourusername/github-profile-finder.git
 2. Open the project
 You can open the index.html file directly in your browser or run a live server if you prefer:
 
-bash
 cd github-profile-finder
 
 3. Search Away!
