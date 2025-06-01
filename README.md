@@ -33,7 +33,7 @@ bash
  🔧 Getting Started
 
 1. Clone the repository
-git clone https://github.com/yourusername/github-profile-finder.git
+git clone https://github.com/Tania2607/Github_Profile_Finder.git
 
 2. Open the project
 You can open the index.html file directly in your browser or run a live server if you prefer:
