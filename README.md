@@ -31,7 +31,6 @@ bash
  🔧 Getting Started
 
 1. Clone the repository
-```bash
 git clone https://github.com/yourusername/github-profile-finder.git
 
 2. Open the project
