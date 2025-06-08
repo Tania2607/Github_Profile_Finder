@@ -63,5 +63,5 @@ Add more data (like gists, pinned repos) using other GitHub API endpoints.
 Contributions are welcome! If you find a bug or want to enhance the project, feel free to fork and create a PR.
 
 
-Made with ❤️ by Tania
+Made with 💜 by Tania
 
